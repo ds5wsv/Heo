@@ -1,1 +1,2 @@
-dnflsms alswndrddmfgl durtk s
+과제 임베디드시스템테스트과목문제
+소스변경후 변경내용기록후 commit.
